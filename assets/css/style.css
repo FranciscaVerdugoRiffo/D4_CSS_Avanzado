@@ -234,6 +234,7 @@ header {
 .social-icons p {
     margin-right: 10px;
     font-weight: bold;
+    
 }
 
 .social-icons i {
@@ -248,9 +249,15 @@ header {
 }
 
 .footer p {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
+    flex-direction: column;
+   
 }
-
+.footer span {
+    font-size: 10px;
+    margin: 10px;
+    
+}
 
 /*PANTALLA ESCRITORIO*/
 
