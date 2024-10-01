@@ -374,6 +374,9 @@ header {
         margin-top: 20px;
         justify-content: center;
     }
+    .footer{
+        background-color: white;
+        color: black;
+    }
 
-   
 }
